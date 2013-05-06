@@ -108,6 +108,8 @@ GEM
     treetop (1.4.12)
       polyglot
       polyglot (>= 0.3.1)
+    turbolinks (1.1.1)
+      coffee-rails
     tzinfo (0.3.37)
     uglifier (2.0.1)
       execjs (>= 0.3.0)
@@ -127,4 +129,5 @@ DEPENDENCIES
   protected_attributes
   rails (= 4.0.0.rc1)
   sass-rails (~> 4.0.0.rc1)
+  turbolinks
   uglifier (>= 1.0.3)
